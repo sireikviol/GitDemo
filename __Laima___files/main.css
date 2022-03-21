@@ -1,0 +1,121 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-color: #0061A5;
+}
+table,td,tr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+li {
+	list-style-type: square;
+}
+a {
+	color: #666666;
+	text-decoration: none;
+}
+a:hover {
+	color: #01164E;
+	text-decoration: underline;
+}
+a.blue {
+	color: #333333;
+	text-decoration: none;
+}
+a.blue hover {
+	text-decoration: none;
+}
+select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1px #AD1008 solid;
+	font-size: 11px;
+}
+textarea {
+	border: 1px #0061A5 solid;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding: 3px;
+	/*background-image: url(../images/bg_reg_field.gif);*/
+	background-repeat: repeat-x;
+}
+.field {
+	padding: 2px;
+	border: 1px #0061A5 solid;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	/*background-image: url(../images/bg_reg_field.gif);*/
+}
+.blue_field {
+	padding: 2px;
+	border: 1px #5C92BB solid;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	/*background-image: url(../images/bg_reg_field.gif);*/
+}
+.button {
+	color: #FFCCCC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #FFCCCC;
+	/*background-image: url(../images/bg_button.gif);*/
+	border: 1px #993333 solid;
+	height: 22px;
+}
+.blue_button {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #E3EFF8;
+	/*background-image: url(../images/bg_blue_top.gif);*/
+	border: 1px #5C92BB solid;
+	height: 23px;
+}
+.menu {
+	padding: 5px;
+	font-size: 11px;
+	color: #686868;
+}
+.menu a {
+	color: #686868;
+	text-decoration: none;
+}
+.menu a:hover {
+	color: #403438;
+	text-decoration: none;
+}
+
+.menu1 {
+	padding: 5px;
+	font-size: 11px;
+	color: #8D5134;
+}
+.menu1 a {
+	color: #8D5134;
+	text-decoration: none;
+}
+.menu1 a:hover {
+	color: #783C10;
+	text-decoration: none;
+}
+
+.menu2 {
+	padding: 5px;
+	font-size: 11px;
+	color: #184468;
+}
+.menu2 a {
+	color: #184468;
+	text-decoration: none;
+}
+.menu2 a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+
